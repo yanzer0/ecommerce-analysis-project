@@ -1,5 +1,14 @@
 # 📊 Análise E-commerce Brasileiro - Olist
 
+<p align="center">
+  <a href="#-sobre-o-projeto">Sobre</a> •
+  <a href="#-objetivos">Objetivos</a> •
+  <a href="#-tecnologias">Tecnologias</a> •
+  <a href="#-descobertas">Descobertas</a> •
+  <a href="#-insights">Insights</a> •
+  <a href="#-como-executar">Executar</a>
+</p>
+
 ## 🎯 Sobre o Projeto
 Análise completa de dados de um e-commerce brasileiro utilizando dados públicos da Olist, focando em padrões de vendas, comportamento do cliente e performance de produtos através de análises estatísticas e visualizações de dados.
 
