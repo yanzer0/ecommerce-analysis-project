@@ -1,7 +1,7 @@
 # 📊 Análise E-commerce Brasileiro - Olist
 
 ## 🎯 Sobre o Projeto
-Análise completa de dados de um e-commerce brasileiro utilizando dados públicos da Olist, focando em padrões de vendas, comportamento do cliente e performance de produtos através de análises estatísticas e visualizações de dados.
+Análise completa de dados do e-commerce brasileiro utilizando dados públicos da Olist, focando em padrões de vendas, comportamento do cliente e performance de produtos através de análises estatísticas e visualizações de dados.
 
 ## 🎯 Objetivos
 - Analisar padrões de vendas e comportamento de compra
