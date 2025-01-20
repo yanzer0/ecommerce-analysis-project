@@ -72,7 +72,7 @@ ecommerce-analysis/
 ## ▶️ Como Executar
 
 1. Clone o repositório
-git clone https://github.com/seu-usuario/ecommerce-analysis
+git clone https://github.com/yanzer0/ecommerce-analysis-project
 
 2. Instale as dependências
 pip install -r requirements.txt
